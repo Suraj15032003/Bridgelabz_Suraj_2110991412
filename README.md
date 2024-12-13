@@ -53,3 +53,11 @@ wc: tell us count of line in file cmp: comparring both files are same or not
  diff: tell us what is the difference between thoes two file
 
 12-12-24
+
+
+revise oprating system
+Linux file system
+aws login
+ec2 inctance making
+
+13-12-2024
