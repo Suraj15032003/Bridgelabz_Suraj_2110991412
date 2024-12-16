@@ -61,3 +61,16 @@ aws login
 ec2 inctance making
 
 13-12-2024
+
+
+
+today doing basic command practice 
+ls 
+mv
+ cp 
+diff
+du 
+chmod
+
+16-12-24
+
