@@ -93,3 +93,13 @@ lr-lh
 
 17-12-24
 
+mkdir
+grep
+egrep
+du 
+df
+locate
+find
+
+18-12-24
+
